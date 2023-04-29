@@ -1,7 +1,8 @@
 ### Контакты:
 
-[<img align="left" alt="wilderedin5 | Telegram" width="32" height="32" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" />](https://t.me/wildnefalem5)
-<br />
+[![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=telegram)](https://t.me/wildnefalem5)
+[![Email](https://img.shields.io/badge/-Email-gray?logo=gmail)](mailto:wildnefalem5@gmail.com)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-gray?logo=stackoverflow)](https://stackoverflow.com/users/15999141/ivan-popov)
 
 ### Стэк:
 
