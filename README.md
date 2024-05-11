@@ -1,25 +1,14 @@
-### Контакты:
+# 💫 Обо мне:
+🔭 Я работаю в Getwebcraft над такими продуктами как Getsitecontrol, Getform, Aurora theme for Shopify:)<br>👯 Заинтересован в крутом и интересном продукте, который зарядит меня по полной)<br>🤝 Могу помочь с созданием удобных и понятных интерфейсов<br>🌱 Постоянно учусь чему-то новому и рад перенять чужой опыт<br>💬 Можем начать с простого "Привет, как дела?)"<br>⚡ Забавный факт: Пью много кофе, много сплю, не верю в Нибиру
 
-[![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=telegram)](https://t.me/wildnefalem5)
-[![Email](https://img.shields.io/badge/-Email-gray?logo=gmail)](mailto:wildnefalem5@gmail.com)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-gray?logo=stackoverflow)](https://stackoverflow.com/users/15999141/ivan-popov)
 
-### Стэк:
+## 🌐 Ссылочки:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15999141) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wilderedin5) [![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=telegram)](https://t.me/wildnefalem5) [![Email](https://img.shields.io/badge/-Email-gray?logo=gmail)](mailto:wildnefalem5@gmail.com)
 
-<code><img width="40" height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="40" height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img width="40" height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="40" height="40" alt="redux" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-<code><img width="40" height="40" alt="recoil" src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg"></code>
-<code><img width="40" height="40" alt="gatsby" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/gatsby-1.png"></code>
-<code><img width="40" height="40" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img width="40" height="40" alt="graphql" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
+# 💻 Стэк:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<code><img width="40" height="40" alt="shopify" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqKwmsLT52Te_WboZL97Lr3KBhDJp66xmRkhbSlVWJmL2pZPt4HKXKaEUTeYgF87-giI&usqp=CAU"></code>
-<code><img width="40" height="40" alt="liquid" src="https://parse.programmieren-muenchen.de/parse/files/unilearn/liquid-logo-text.png"></code>
-
-<code><img width="40" height="40" alt="html" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVeLjB2QC1WCyLcPlT3E02MNGR34_FAT2gw&usqp=CAU"></code>
-<code><img width="40" height="40" alt="css" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1H3dQle_NwoMfj4QFTLe7YLJpnQwvhXKMgQ&usqp=CAU"></code>
-<code><img width="40" height="40" alt="scss" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+preprocesor+sass+web+icon-1320184849915610733.png"></code>
-
-<img align="left" alt="Ivan Popov Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilderedin5&show_icons=true" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wilderedin5&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wilderedin5&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilderedin5&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
