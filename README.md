@@ -9,8 +9,10 @@
 
 Было бы круто присоединиться к команде, где можно расти вместе с сильными ребятами, обмениваться опытом и просто работать в комфортной, дружелюбной атмосфере.
 
-## 🌐 Ссылочки:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15999141) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wilderedin5) [![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=telegram)](https://t.me/wildnefalem5) [![Email](https://img.shields.io/badge/-Email-gray?logo=gmail)](mailto:wildnefalem5@gmail.com)
+# 🌐 Где меня найти:
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wildnefalem5)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wildnefalem5@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15999141)
 
 # 💻 Стэк:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
