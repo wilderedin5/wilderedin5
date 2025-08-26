@@ -9,6 +9,15 @@
 
 Было бы круто присоединиться к команде, где можно расти вместе с сильными ребятами, обмениваться опытом и просто работать в комфортной, дружелюбной атмосфере.
 
+# 💫 About me:
+I've been doing frontend development for over 6 years now. I love making interfaces that not only look beautiful, but are also user-friendly. 
+
+I have worked in both fast—paced startups and large technology companies - I am able to adapt and quickly join a team.
+
+I periodically try to give back to the community by answering questions on Stack Overflow and sharing my experience. In my free time, I go to the gym, read, play guitar, and sometimes hang out playing video games or movies.
+
+It would be cool to join a team where you can grow with strong guys, share experiences and just work in a comfortable, friendly atmosphere.
+
 # 🌐 Где меня найти:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wildnefalem5)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wildnefalem5@gmail.com)
